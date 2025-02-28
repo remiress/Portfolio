@@ -19,13 +19,13 @@ Saya Raihan Emir, mahasiswa tingkat akhir Teknik Elektronika di Universitas Nege
 - **Deskripsi:** Sistem IoT untuk memantau suhu dan kelembaban secara real-time menggunakan ESP32 dan sensor DHT22.
 - **Teknologi:** ESP32, DHT22, MQTT.
 - **Hasil:** Akurasi pembacaan 95%.
-- **Link Proyek:** [Lihat Detail](projects/project-1)
+- **Link Proyek:** [Lihat Di Sini](projects/project-1)
 
 ### 2. Desain PCB untuk Sistem Kontrol Otomatis
 - **Deskripsi:** Merancang PCB untuk sistem kontrol otomatis menggunakan Altium Designer.
 - **Teknologi:** Altium Designer, STM32 Mikrokontroler.
 - **Hasil:** PCB berhasil diproduksi dan diuji dengan fungsionalitas 100%.
-- **Link Proyek:** [Lihat Detail](projects/project-2)
+- **Link Proyek:** [Lihat Di Sini](projects/project-2)
 
 ## 📂 Repository Lainnya
 - [Nama Repository 1](link) - Deskripsi singkat.
