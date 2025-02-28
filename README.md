@@ -16,21 +16,25 @@ Saya Raihan Emir, mahasiswa tingkat akhir Teknik Elektronika di Universitas Nege
 ## 🚀 Proyek
 
 ### 1. Sistem Monitoring Suhu dan Kelembaban Berbasis IoT
-- **Deskripsi:** Sistem IoT untuk memantau suhu dan kelembaban secara real-time menggunakan ESP32 dan sensor DHT22.
-- **Teknologi:** ESP32, DHT22, MQTT.
+- **Deskripsi:** Sistem IoT untuk memantau suhu dan kelembaban secara real-time menggunakan ESP32 dan sensor DHT11.
+- **Teknologi:** ESP32, DHT11, MQTT.
 - **Hasil:** Akurasi pembacaan 95%.
 - **Link Proyek:** [Lihat Di Sini](projects/project-1)
 
-### 2. Desain PCB untuk Sistem Kontrol Otomatis
-- **Deskripsi:** Merancang PCB untuk sistem kontrol otomatis menggunakan Altium Designer.
-- **Teknologi:** Altium Designer, STM32 Mikrokontroler.
-- **Hasil:** PCB berhasil diproduksi dan diuji dengan fungsionalitas 100%.
+### 2. Sensor Serangga berbasis IoT dengan ESP32- CAM
+- **Deskripsi:** Sensor yang digunakan untuk menangkap dan mendeteksi serangga yang umumnya berada di kebun menggunakan ESP32-CAM.
+- **Teknologi:** ESP32-CAM, ESP-IDF, Google Apps Script, TaskScheduler.
+- **Peran:** Merangkai sistem elektronika dan melakukan uji coba alat.
+- **Hasil:** Alat berhasil diproduksi dan diuji dengan baik.
 - **Link Proyek:** [Lihat Di Sini](projects/project-2)
 
-## 📂 Repository Lainnya
-- [Nama Repository 1](link) - Deskripsi singkat.
-- [Nama Repository 2](link) - Deskripsi singkat.
-
+### 3. Sensor Tanah Portable dengan ESP32-CAM
+-  **Deskripsi:** Sistem sensor tanah yang praktis dan mudah digunakan, dapat terhubung dengan ponsel pengguna.
+-  **Teknologi:** ESP32-CAM, ESP-IDF, HTML/CSS/JavaScript
+-  **Peran:** Merangkai sistem elektronika dan melakukan uji coba alat.
+-  **Hasil:** Alat berhasil diproduksi dan diuji dengan baik.
+-  **Link Proyek:** [Lihat Di Sini](projects/project-3)
+  
 ---
 
 © 2025 Raihan Emir Pashya. Portfolio ini dibuat menggunakan GitHub.
