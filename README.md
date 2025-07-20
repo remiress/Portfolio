@@ -21,14 +21,14 @@ Saya Raihan Emir, mahasiswa tingkat akhir Teknik Elektronika di Universitas Nege
 - **Hasil:** Akurasi pembacaan 95%.
 - **Link Proyek:** [Lihat Di Sini](projects/project-1)
 
-### 2. Sensor Serangga berbasis IoT dengan ESP32- CAM
+### 2. Proyek Magang: Sensor Serangga berbasis IoT dengan ESP32- CAM
 - **Deskripsi:** Sensor yang digunakan untuk menangkap dan mendeteksi serangga yang umumnya berada di kebun menggunakan ESP32-CAM.
 - **Teknologi:** ESP32-CAM, ESP-IDF, Google Apps Script, TaskScheduler.
 - **Peran:** Merangkai sistem elektronika dan melakukan uji coba alat.
 - **Hasil:** Alat berhasil diproduksi dan diuji dengan baik.
 - **Link Proyek:** [Lihat Di Sini](projects/project-2)
 
-### 3. Sensor Tanah Portable dengan ESP32-CAM
+### 3. Proyek Magang: Sensor Tanah Portable dengan ESP32-CAM
 -  **Deskripsi:** Sistem sensor tanah yang praktis dan mudah digunakan, dapat terhubung dengan ponsel pengguna.
 -  **Teknologi:** ESP32-CAM, ESP-IDF, HTML/CSS/JavaScript
 -  **Peran:** Merangkai sistem elektronika dan melakukan uji coba alat.
@@ -36,10 +36,9 @@ Saya Raihan Emir, mahasiswa tingkat akhir Teknik Elektronika di Universitas Nege
 -  **Link Proyek:** [Lihat Di Sini](projects/project-3)
 
 ### 4. Sistem Peringatan Banjir
--  **Deskripsi:** Sistem sensor tanah yang praktis dan mudah digunakan, dapat terhubung dengan ponsel pengguna.
--  **Teknologi:** ESP32-CAM, ESP-IDF, HTML/CSS/JavaScript
--  **Peran:** Merangkai sistem elektronika dan melakukan uji coba alat.
--  **Hasil:** Alat berhasil diproduksi dan diuji dengan baik.
+-  **Deskripsi:** Sistem peringatan banjir yang memberikan notifikasi ke pengguna melalui telegram.
+-  **Teknologi:** ESP32, Arduino UNO, NRF24L01, HC-SR04, K-0135
+-  **Hasil:** Alat berhasil mendeteksi ketinggian air dan memberikan notifikasi ke pengguna.
 -  **Link Proyek:** [Lihat Di Sini](projects/project-4)
    
   
