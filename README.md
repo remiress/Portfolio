@@ -34,6 +34,14 @@ Saya Raihan Emir, mahasiswa tingkat akhir Teknik Elektronika di Universitas Nege
 -  **Peran:** Merangkai sistem elektronika dan melakukan uji coba alat.
 -  **Hasil:** Alat berhasil diproduksi dan diuji dengan baik.
 -  **Link Proyek:** [Lihat Di Sini](projects/project-3)
+
+### 4. Sistem Peringatan Banjir
+-  **Deskripsi:** Sistem sensor tanah yang praktis dan mudah digunakan, dapat terhubung dengan ponsel pengguna.
+-  **Teknologi:** ESP32-CAM, ESP-IDF, HTML/CSS/JavaScript
+-  **Peran:** Merangkai sistem elektronika dan melakukan uji coba alat.
+-  **Hasil:** Alat berhasil diproduksi dan diuji dengan baik.
+-  **Link Proyek:** [Lihat Di Sini](projects/project-4)
+   
   
 ---
 
